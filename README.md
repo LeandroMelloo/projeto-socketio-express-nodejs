@@ -1,2 +1,2 @@
-# socket.io
-Socket.IO Apps Realtime com NodeJS
+# socket-io
+socket-io apps realtime com nodejs
